@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[font
+	size	=	$1
+	face	=	"$2"
+	color	=	"${3:0x}"
+	rubysize	=	${4:"defalut"}
+	rubyoffset	=	${5:"defalut"}
+	edge	=	${6:false}
+	edgecolor	=	"${7:0x}"
+	bold	=	${8:false}
+	o2_shadow	=	${9:false}
+	o2_shadowblur	=	${10:0}
+	o2_shadowoffsetx	=	${11:0}
+	o2_shadowoffsety	=	${12:0}
+	o2_shadowcolor	=	"${13:0x}"
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>font</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.o2</scope>
+	<description>フォント情報の指定</description>
+</snippet>

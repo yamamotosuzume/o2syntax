@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[style
+	align	=	${1:"defalut"}
+	linespacing	=	${2:0}
+	pitch	=	${3:0}
+	linesize	=	${4:0}
+	autoreturn	=	${5:true/false}
+	o2_kinsoku	=	"${6:none}"
+	o2_kinsoku_bol_char	=	"$7"
+	o2_kinsoku_eol_char	=	"$8"
+	o2_kinsoku_burasagari_char	=	"$9"
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>style</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.o2</scope>
+	<description>文字スタイル情報の指定</description>
+</snippet>

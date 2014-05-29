@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[defstyle
+	linespacing	=	$1
+	pitch	=	$2
+	linesize	=	$3
+	o2_kinsoku	=	"${4:none}"
+	o2_kinsoku_bol_char	=	"$5"
+	o2_kinsoku_eol_char	=	"$6"
+	o2_kinsoku_burasagari_char	=	"$7"
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>defstyle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.o2</scope>
+	<description>デフォルトスタイルの変更</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[[o2_iscript]
+	$1
+[o2_endscript]]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>o2_iscript</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.o2</scope>
+	<description>JavaScript記述</description>
+</snippet>

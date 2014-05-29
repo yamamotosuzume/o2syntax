@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[[ignore o2_exp="$1"]
+	$2
+[endignore]]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ignore</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.o2</scope>
+	<description>条件分岐</description>
+</snippet>

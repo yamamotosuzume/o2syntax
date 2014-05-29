@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[position
+	layer	=	${1:layername}
+	page	=	${2:fore/back}
+	top	=	${3:0}
+	left	=	${4:0}
+	width	=	${5:0}
+	height	=	${6:0}
+	color	=	"${7:0x}"
+	frame	=	"$8"
+	opacity	=	${9:0~255}
+	margint	=	${10:0}
+	marginr	=	${11:0}
+	marginb	=	${12:0}
+	marginl	=	${13:0}
+	vertical	=	${14:true/false}
+	visible	=	${15:true/false}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>position</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.o2</scope>
+	<description>メッセージレイヤの属性変更</description>
+</snippet>
